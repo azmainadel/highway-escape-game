@@ -1,0 +1,8 @@
+﻿Build started 07-Jan-16 3:33:39 PM.
+     1>Project "E:\Study\Lvl 1 Term 2\CSE106\MyProject_HIGHWAYESCAPE\iGraphics\IGraphics\IGraphics\IGraphics.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(511,5): error MSB8008: Specified platform toolset (v140) is not installed or invalid. Please make sure that a supported PlatformToolset value is selected.
+     1>Done Building Project "E:\Study\Lvl 1 Term 2\CSE106\MyProject_HIGHWAYESCAPE\iGraphics\IGraphics\IGraphics\IGraphics.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.01
